@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
 	//alteração realizada por Érgori
-	//alteração deletada
+	//alteração refeita por Érgori
         Console.WriteLine("Digite seu ano de nascimento:");
         int anoN = int.Parse(Console.ReadLine());
         Console.WriteLine($"Ano de nascimento = " + (anoN));
